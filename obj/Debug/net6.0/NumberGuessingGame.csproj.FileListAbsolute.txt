@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.exe
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.deps.json
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.dll
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\bin\Debug\net6.0\NumberGuessingGame.pdb
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.dll
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\refint\NumberGuessingGame.dll
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.pdb
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Documents\C# Projects\NumberGuessingGame\obj\Debug\net6.0\ref\NumberGuessingGame.dll
